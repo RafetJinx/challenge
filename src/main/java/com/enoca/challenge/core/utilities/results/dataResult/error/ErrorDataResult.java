@@ -1,6 +1,6 @@
-package server.example.javaServer.core.utilities.results.dataResult.error;
+package com.enoca.challenge.core.utilities.results.dataResult.error;
 
-import server.example.javaServer.core.utilities.results.dataResult.DataResult;
+import com.enoca.challenge.core.utilities.results.dataResult.DataResult;
 
 public class ErrorDataResult<T> extends DataResult {
 

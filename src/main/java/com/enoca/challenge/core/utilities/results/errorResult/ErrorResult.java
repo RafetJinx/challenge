@@ -1,6 +1,7 @@
-package server.example.javaServer.core.utilities.results.errorResult;
+package com.enoca.challenge.core.utilities.results.errorResult;
 
-import server.example.javaServer.core.utilities.results.Result;
+
+import com.enoca.challenge.core.utilities.results.Result;
 
 public class ErrorResult extends Result {
     public ErrorResult(){

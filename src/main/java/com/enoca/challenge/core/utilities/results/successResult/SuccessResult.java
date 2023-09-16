@@ -1,6 +1,7 @@
-package server.example.javaServer.core.utilities.results.successResult;
+package com.enoca.challenge.core.utilities.results.successResult;
 
-import server.example.javaServer.core.utilities.results.Result;
+
+import com.enoca.challenge.core.utilities.results.Result;
 
 public class SuccessResult extends Result {
     public SuccessResult(){

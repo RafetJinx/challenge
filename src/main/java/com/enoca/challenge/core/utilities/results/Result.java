@@ -1,4 +1,4 @@
-package server.example.javaServer.core.utilities.results;
+package com.enoca.challenge.core.utilities.results;
 
 public class Result {
     private boolean success;

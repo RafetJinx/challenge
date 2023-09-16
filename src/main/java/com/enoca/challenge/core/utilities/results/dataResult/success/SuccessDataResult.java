@@ -1,6 +1,6 @@
-package server.example.javaServer.core.utilities.results.dataResult.success;
+package com.enoca.challenge.core.utilities.results.dataResult.success;
 
-import server.example.javaServer.core.utilities.results.dataResult.DataResult;
+import com.enoca.challenge.core.utilities.results.dataResult.DataResult;
 
 public class SuccessDataResult<T> extends DataResult {
     public SuccessDataResult(String message, T data) {
